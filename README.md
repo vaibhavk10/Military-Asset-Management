@@ -1,6 +1,6 @@
 # 🚀 Military Asset Management
 
-![Project Banner](https://user-images.githubusercontent.com/placeholder/banner-military-asset-management.png)
+![Project Banner](./public/favicon.ico)
 
 <p align="center">
   <img src="https://img.shields.io/github/license/vaibhavk10/Military-Asset-Management?style=flat-square" alt="License" />
@@ -20,7 +20,7 @@
 
 ## 📸 Demo
 
-![Dashboard Screenshot](https://user-images.githubusercontent.com/placeholder/dashboard-screenshot.png)
+![Dashboard Screenshot](/public/dashboard.jpg)
 
 <!-- Optionally, add a GIF for animation/transition demo -->
 <!-- ![Demo Animation](https://user-images.githubusercontent.com/placeholder/demo-animation.gif) -->
