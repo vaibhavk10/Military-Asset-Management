@@ -1,7 +1,7 @@
 # 🚀 Military Asset Management
 
 <p align="center">
-  <img src="./public/favicon.ico" alt="Project Banner" width="48" height="48" />
+  <img src="./public/favicon.ico" alt="Project Banner" width="500" height="500" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/github/license/vaibhavk10/Military-Asset-Management?style=flat-square" alt="License" />
